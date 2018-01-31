@@ -1,0 +1,10 @@
+Laravel 5.5 and Vue JS Tutorials Series for beginners 
+6-1
+https://www.youtube.com/watch?v=5SvkoDIpaIA&list=PL9fcHFJHtFaapJ90VEtHvbqGvDniKkuRT
+6-1	php artisan preset react
+	php artisan preset vue
+	php artisan preset none
+	php artisan preset vue
+	php artisan preset bootstrap
+	npm install (無敵久)
+	npm run dev
